@@ -39,10 +39,6 @@ Redesign the user experience focusing on:
 2. **Payment Tracking**  
    "As a frequent claimant, I need to see all my payment histories in one place to plan my finances."
 
-### Secondary Persona: "Siti" (Small Business Owner, 45)
-1. **Multi-Claim Management**  
-   "As an employer, I need to track claims for all my employees with clear status indicators."
-
 ## 4. Functional Requirements
 ### 4.1 JHT Claim Flow
 | ID | Requirement | Validation Method |
